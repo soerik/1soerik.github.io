@@ -1,11 +1,24 @@
 body{
     max-width: 36em;
     margin: 0 auto;
+    background-color: black;
+    color: white;
+    
+
 }
 
-h1, h2, h3 {
+h1, h2 {
     text-align: center;
+    color: lightgreen;
+    
 }
+
+h3 {
+    color: orange;
+    
+    
+}
+
 
 img {
     max-width: 100%;
